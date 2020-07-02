@@ -10,6 +10,7 @@
 
 ### **Lecture Series**
 #### Deep Learning (with PyTorch) - New York University with PyTorch | https://bit.ly/3eMU20v
+#### DeepMind x UCL | Deep Learning Lectures | https://bit.ly/31Ev8N1
 
 ---------------
 
