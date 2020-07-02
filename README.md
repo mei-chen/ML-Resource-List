@@ -1,4 +1,4 @@
-<h1 align="center"> ML-Resource-List </h1>
+<h1 align="center"> ML Resource List </h1>
 
 
 ### **Blogs**
