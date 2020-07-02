@@ -1,7 +1,7 @@
 <h1 align="center"> ML Resource List </h1>
 
 
-### <h1 align="center"> **Blogs** </h1>
+### **Blogs** 
 
 #### Chris Olah's blog | https://colah.github.io/
 #### Andrej Karpathy's blog | http://karpathy.github.io/
