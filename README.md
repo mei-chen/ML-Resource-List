@@ -22,3 +22,7 @@
 
 ### **Books**
 #### The Deep Learning Book | https://www.deeplearningbook.org/
+
+---------------
+### **Open Publication**
+#### Distill Pub | https://distill.pub/
