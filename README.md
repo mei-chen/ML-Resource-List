@@ -22,6 +22,6 @@
 |[Andrej Karpathy's blog](http://karpathy.github.io/)
 
 |  Lecture Series | |
-
+| ------------- |:-------------|
 |[NYU Deep Learning w/ PyTorch](https://bit.ly/3eMU20v)
 |[DeepMind x UCL ](https://bit.ly/31Ev8N1)
