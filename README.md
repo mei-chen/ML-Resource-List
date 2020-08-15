@@ -31,3 +31,8 @@
 | ------------- |:-------------|
 |[Chris Olah's Blog](https://colah.github.io/)
 |[Andrej Karpathy's blog](http://karpathy.github.io/)
+
+|  Lecture Series | |
+| ------------- |:-------------|
+|[Chris Olah's Blog](https://colah.github.io/)
+|[Andrej Karpathy's blog](http://karpathy.github.io/)
