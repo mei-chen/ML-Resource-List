@@ -26,3 +26,8 @@
 ---------------
 ### **Open Publication**
 #### Distill Pub | https://distill.pub/
+
+|  Resources | |
+| ------------- |:-------------|
+|[Chris Olah's Blog](https://colah.github.io/)|[Code]()
+|[Andrej Karpathy's blog](http://karpathy.github.io/)|Link
