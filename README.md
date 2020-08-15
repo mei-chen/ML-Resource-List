@@ -1,17 +1,6 @@
 <h1 align="center"> ML Resource List </h1>
 
 
-### **Blogs** 
-
-#### Chris Olah's blog | https://colah.github.io/
-#### Andrej Karpathy's blog | http://karpathy.github.io/
-
----------------
-
-### **Lecture Series**
-#### Deep Learning (with PyTorch) - New York University with PyTorch | https://bit.ly/3eMU20v
-#### DeepMind x UCL | Deep Learning Lectures | https://bit.ly/31Ev8N1
-
 ---------------
 
 ### **Courses**
@@ -27,12 +16,12 @@
 ### **Open Publication**
 #### Distill Pub | https://distill.pub/
 
-|  Resources | |
+|  Blogs | |
 | ------------- |:-------------|
 |[Chris Olah's Blog](https://colah.github.io/)
 |[Andrej Karpathy's blog](http://karpathy.github.io/)
 
 |  Lecture Series | |
-| ------------- |:-------------|
-|[Chris Olah's Blog](https://colah.github.io/)
-|[Andrej Karpathy's blog](http://karpathy.github.io/)
+
+|[NYU Deep Learning w/ PyTorch](https://bit.ly/3eMU20v)
+|[DeepMind x UCL ](https://bit.ly/31Ev8N1)
