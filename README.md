@@ -15,3 +15,4 @@
 | ------------- |
 |[The Deep Learning Book](https://www.deeplearningbook.org/)
 |[Distill Pub](https://distill.pub/)
+|[Hand-on Machine Learning with Scikit-learn, Keras, & Tensorflow](https://github.com/mei-chen/ML-Resource-List/blob/master/Hands-on-Machine-Learning.pdf)
