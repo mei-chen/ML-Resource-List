@@ -11,7 +11,7 @@
 |[DeepMind x UCL ](https://bit.ly/31Ev8N1) |
 |[DeepLearning.ai](https://www.deeplearning.ai/) |
 
-|  Books/Pub | 
+|  Books/ Pub | 
 | :------------- |
 |[The Deep Learning Book](https://www.deeplearningbook.org/)
 |[Distill Pub](https://distill.pub/)
